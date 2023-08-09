@@ -1,0 +1,102 @@
+{
+    "annotations": [
+        
+        {
+            "caption": "a person walks with thick boots through the rough ways",
+            "id": 1,
+            "image_id": 0,
+            "vid_id": "vid1301"
+        },
+
+        {
+            "caption": "someone walks with heavy boots which are suitable for trucking",
+            "id": 2,
+            "image_id": 0,
+            "vid_id": "vid1301"
+        },
+
+        {
+            "caption": "there is someone advertising some boots",
+            "id": 3,
+            "image_id": 0,
+            "vid_id": "vid1301"
+        },
+
+        {
+            "caption": "a man talks about picking the right boot when you go hiking in the wilderness",
+            "id": 4,
+            "image_id": 0,
+            "vid_id": "vid1301"
+        },
+
+        {
+            "caption": "a man is walking in the forest area",
+            "id": 5,
+            "image_id": 0,
+            "vid_id": "vid1301"
+        },
+
+        {
+            "caption": "a pair of gray shows and a man walking through the snow with them",
+            "id": 6,
+            "image_id": 0,
+            "vid_id": "vid1301"
+        },
+
+        {
+            "caption": "guy walking with warm cloths and a bag in a snow area",
+            "id": 7,
+            "image_id": 0,
+            "vid_id": "vid1301"
+        },
+
+        {
+            "caption": "a person walks wearing a black trecking shore and climbed a snow mountain",
+            "id": 8,
+            "image_id": 0,
+            "vid_id": "vid1301"
+        },
+
+        {
+            "caption": "a mountain trekker emphasizes the importance of making a right choice about the trekking shoes you buy",
+            "id": 9,
+            "image_id": 0,
+            "vid_id": "vid1301"
+        },
+
+        {
+            "caption": "a man wearing heavy woolen cloths and boots walking on snow",
+            "id": 10,
+            "image_id": 0,
+            "vid_id": "vid1301"
+        }
+    ],
+    "images": [
+        {
+            "date_captured": "2013-11-14 11:18:45",
+            "file_name": "vid1301.avi",
+            "height": 360,
+            "id": 0,
+            "license": 1,
+            "url": "https://www.youtube.com/watch?v=vid1301",
+            "width": 640
+        }
+        
+    ],
+    "info": {
+        "contributor": "Guadarrama et al",
+        "date_created": "2013-01-27 09:11:52.357475",
+        "description": "YouTube2Text",
+        "url": "http://upplysingaoflun.ecn.purdue.edu/~yu239/datasets/youtubeclips.zip",
+        "version": "1.0",
+        "year": 2013
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "name": "Attribution-NonCommercial-ShareAlike License",
+            "url": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
+        }
+    ],
+    "type": "captions"
+}

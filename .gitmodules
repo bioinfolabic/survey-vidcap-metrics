@@ -1,0 +1,24 @@
+[submodule "cider"]
+	path = cider
+	url = https://github.com/vrama91/cider.git
+[submodule "clipscore"]
+	path = clipscore
+	url = https://github.com/jmhessel/clipscore.git
+[submodule "bert_score"]
+	path = bert_score
+	url = https://github.com/Tiiiger/bert_score.git
+[submodule "SMURF"]
+	path = SMURF
+	url = https://github.com/JoshuaFeinglass/SMURF.git
+[submodule "CapEval"]
+	path = CapEval
+	url = https://github.com/SeleenaJM/CapEval.git
+[submodule "ViLBERTScore"]
+	path = ViLBERTScore
+	url = https://github.com/hwanheelee1993/ViLBERTScore.git
+[submodule "coco-caption"]
+	path = coco-caption
+	url = https://github.com/tylin/coco-caption.git
+[submodule "emscore"]
+	path = emscore
+	url = https://github.com/ShiYaya/emscore.git

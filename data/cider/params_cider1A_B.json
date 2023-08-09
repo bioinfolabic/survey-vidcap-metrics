@@ -1,0 +1,7 @@
+{
+	"pathToData" : "data/",
+	"refName" : "referencia1_cider.json",
+	"candName" : "prediction_1_g.json",
+	"resultFile" : "results.json",
+	"idf" : "coco-val-df"
+}

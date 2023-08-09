@@ -1,0 +1,75 @@
+{
+    "annotations": [
+            
+    
+    
+        {
+            "caption": "the person cleans a gym with the large dust mop",
+            "id": 11433,
+            "image_id": 0,
+            "vid_id": "vid1301"
+        },
+        {
+            "caption": "a man sweeps the floor of a gym",
+            "id": 11433,
+            "image_id": 0,
+            "vid_id": "vid1301"
+        },
+
+        {
+            "caption": "a man sweeps the gymnasium floor with a dust broom",
+            "id": 11433,
+            "image_id": 0,
+            "vid_id": "vid1301"
+        },
+
+        {
+            "caption": "a man in a blue shirt and black trousers sweeping a gym floor",
+            "id": 11433,
+            "image_id": 0,
+            "vid_id": "vid1301"
+        },
+
+        {
+            "caption": "a man in a blue shirt is sweeping a classroom",
+            "id": 11433,
+            "image_id": 0,
+            "vid_id": "vid1301"
+        },
+
+        {
+            "caption": "a man in black pants is mopping the floor of a gym room",
+            "id": 11433,
+            "image_id": 0,
+            "vid_id": "vid1301"
+        }
+    ],
+    "images": [
+        {
+            "date_captured": "2013-11-14 11:18:45",
+            "file_name": "vid1301.avi",
+            "height": 360,
+            "id": 0,
+            "license": 1,
+            "url": "https://www.youtube.com/watch?v=vid1301",
+            "width": 640
+        }
+        
+    ],
+    "info": {
+        "contributor": "Guadarrama et al",
+        "date_created": "2013-01-27 09:11:52.357475",
+        "description": "YouTube2Text",
+        "url": "http://upplysingaoflun.ecn.purdue.edu/~yu239/datasets/youtubeclips.zip",
+        "version": "1.0",
+        "year": 2013
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "name": "Attribution-NonCommercial-ShareAlike License",
+            "url": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
+        }
+    ],
+    "type": "captions"
+}

@@ -1,0 +1,7 @@
+{
+	"pathToData" : "data/",
+	"refName" : "referencia4C_cider.json",
+	"candName" : "prediction_4C_B.json",
+	"resultFile" : "results.json",
+	"idf" : "coco-val-df"
+}
